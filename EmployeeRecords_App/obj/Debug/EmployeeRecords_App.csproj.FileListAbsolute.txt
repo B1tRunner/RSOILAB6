@@ -1,0 +1,12 @@
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_6\EmployeeRecords_App\bin\Debug\EmployeeRecords_App.exe.config
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_6\EmployeeRecords_App\bin\Debug\EmployeeRecords_App.exe
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_6\EmployeeRecords_App\bin\Debug\EmployeeRecords_App.pdb
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_6\EmployeeRecords_App\bin\Debug\Newtonsoft.Json.dll
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_6\EmployeeRecords_App\bin\Debug\Newtonsoft.Json.xml
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_6\EmployeeRecords_App\obj\Debug\EmployeeRecords_App.csproj.AssemblyReference.cache
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_6\EmployeeRecords_App\obj\Debug\EmployeeRecords_App.Properties.Resources.resources
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_6\EmployeeRecords_App\obj\Debug\EmployeeRecords_App.csproj.GenerateResource.cache
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_6\EmployeeRecords_App\obj\Debug\EmployeeRecords_App.csproj.CoreCompileInputs.cache
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_6\EmployeeRecords_App\obj\Debug\EmployeeRecords_App.csproj.CopyComplete
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_6\EmployeeRecords_App\obj\Debug\EmployeeRecords_App.exe
+D:\Прога\BGUIR_Labs\bguirlabs_vadyutin\Laba_6\EmployeeRecords_App\obj\Debug\EmployeeRecords_App.pdb
